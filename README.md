@@ -41,7 +41,7 @@
 | 14강 | 11장 | 도구변수를 통한 프로덕트의 인앱 푸시 효과 측정 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 12.22 |
 | 15강 | 12장 | 인과관계 발견 및 모델 개발/운영 소개 | [김성수](https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EA%B9%80-50825717b/)(LG CNS) | 12.29 |
 | 16강 | 인과추론과 실무 | 구독 상품에 따른 retention의 인과효과 추정하기 | [김소희](https://www.linkedin.com/in/sohee-kim-9460b6113/)(TVING) | 01.12 |
-| 17강 | 인과추론과 실무 | 임상 관찰 연구에서 RCT 모사를 위한 Target Trial Emulation | [박상호](https://www.linkedin.com/in/sangho-park-4220aa22a/)(성균관대학교) | 01.19 |
+| 17강 | 인과추론과 실무 | 임상 관찰 연구에서 RCT 모사를 위한 Target Trial Emulation | [박상호](https://www.linkedin.com/in/shstat1729/)(성균관대학교) | 01.19 |
 | 18강 | 인과추론과 실무 | 실무에 적용하는 인과추론 템플릿 | [김성수](https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EA%B9%80-50825717b/)(LG CNS) | 01.26 |
 | 19강 | 종강 | 에필로그 소개 및 특강 갈무리 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 01.26 |
 
